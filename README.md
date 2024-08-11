@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="center">A passionate Fullstack developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [https://khaled-a-portfolio.netlify.app/](https://khaled-a-portfolio.netlify.app/)
 
